@@ -25,3 +25,9 @@ header {
   color: #555555;
   line-height: 1.7;
 }
+
+.gioi-thieu {
+  background: #000000;
+  color: #000000;
+  font-size: 2px;
+}
