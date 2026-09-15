@@ -8,3 +8,20 @@ header {
   color: #ffffff;
   padding: 20px;
 }
+
+.gioi-thieu {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+.gioi-thieu h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 8px;
+}
+.gioi-thieu p {
+  color: #555555;
+  line-height: 1.7;
+}
